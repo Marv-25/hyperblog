@@ -7,3 +7,5 @@ se esta hacienod un cambio
 se puede borrar lo anterrio pero conservando lo siguiente , cracks
 
 acabo de agregar la info del cache al nuevo archivo
+
+solo un pequeño cambio
