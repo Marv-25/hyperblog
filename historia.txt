@@ -1,0 +1,9 @@
+Hola mi nombre es marvin
+en este commit voy a poner solo texto
+
+se borro todo despues de usar --hard
+se esta hacienod un cambio
+
+se puede borrar lo anterrio pero conservando lo siguiente , cracks
+
+acabo de agregar la info del cache al nuevo archivo
