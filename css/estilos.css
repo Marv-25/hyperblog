@@ -13,7 +13,7 @@ body {
     height: auto;
 }
 .texto {
-    color: red;
+    color: blue;
     text-transform: capitalize;
 }
 .cabecera {
