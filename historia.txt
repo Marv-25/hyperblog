@@ -1,0 +1,3 @@
+Hola mi nombre es marvin y estoy aprendiendo a usar Git y Github con Freddy
+tengo 21 años y el año pasado empece a aprender acerca del desarrollo web
+esta es la rama master y no se ha borrado despues de usar la nuevarama
