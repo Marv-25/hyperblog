@@ -9,10 +9,20 @@ body {
 .container {
     margin: 0 auto;
     border: 1px dotted black;
-    width: 70vw;
-    height: 30vh;
+    width: 70%;
+    height: auto;
 }
 .texto {
     color: blue;
     text-transform: capitalize;
+}
+.cabecera {
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
+.cabecera h1 {
+    font-weight: 600;
 }
