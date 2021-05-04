@@ -6,6 +6,9 @@ body {
 
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> header
 .body {
     background-color: aqua;
 
@@ -17,6 +20,7 @@ body {
     height: 4rem;
     border-radius: 1rem;
 
+<<<<<<< HEAD
 =======
 a {
     text-decoration: none;
@@ -25,6 +29,8 @@ p {
     text-align: left;
     padding: 0 1rem;
 >>>>>>> footer
+=======
+>>>>>>> header
 }
 .container {
     margin: 0 auto;
