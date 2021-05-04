@@ -7,6 +7,7 @@ body {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> header
 .body {
@@ -22,15 +23,20 @@ body {
 
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> footer
 a {
     text-decoration: none;
 }
 p {
     text-align: left;
     padding: 0 1rem;
+<<<<<<< HEAD
 >>>>>>> footer
 =======
 >>>>>>> header
+=======
+>>>>>>> footer
 }
 .container {
     margin: 0 auto;
